@@ -9,6 +9,7 @@ function App() {
   /* este es el comentario */
   return (
     <>
+      <p>© 2025 Nuclio Digital School</p>
       <Navigation />
       <BrowserRouter>
         <Routes>
