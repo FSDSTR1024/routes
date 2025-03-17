@@ -6,6 +6,7 @@ import Contact from "./components/contact";
 
 import Navigation from "./components/navigation";
 function App() {
+  /* este es el comentario */
   return (
     <>
       <Navigation />
