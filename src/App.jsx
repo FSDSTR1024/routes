@@ -24,6 +24,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </BrowserRouter>
+      <h2>Nuclio Digital School</h2>
     </>
   );
 }
